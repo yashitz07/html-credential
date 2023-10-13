@@ -1,3 +1,4 @@
 # html-credential
-author yash patel
-this is my first repo
+Author yash patel.
+<br>
+This is my first repo.
